@@ -1,0 +1,7 @@
+- Setting up unity
+- Switching to VS Code over Visual Studio for writing the scripts ~ and getting all necessary extensions to make life easier.
+- Basics of C# (types, Creating functions (albeit very basic for now))
+- Debug.log vs print:
+    - print only works if the current class inherits from MonoBehaviour
+- String interpolation can be achieved by appending $ to the start of the string, but used string.Format from my java background :P
+    - E.g: Console.WriteLine($"Hello, {0}","World?")
